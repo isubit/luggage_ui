@@ -4,6 +4,7 @@ core = 7.x
 package = Features
 version = 7.x-1.0
 project = enable_ui_modules
+github = https://raw.github.com/ISUITC/enable_ui_modules/master/enable_ui_modules.info
 dependencies[] = dblog
 dependencies[] = field_ui
 dependencies[] = global_otherenabled
