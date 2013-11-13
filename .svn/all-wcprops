@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/itc/!svn/ver/341/isuitcbase/sites/all/modules/custom/enable_ui_modules
+END
+enable_ui_modules.module
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/itc/!svn/ver/341/isuitcbase/sites/all/modules/custom/enable_ui_modules/enable_ui_modules.module
+END
+enable_ui_modules.install
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/itc/!svn/ver/232/isuitcbase/sites/all/modules/custom/enable_ui_modules/enable_ui_modules.install
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/itc/!svn/ver/232/isuitcbase/sites/all/modules/custom/enable_ui_modules/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/itc/!svn/ver/232/isuitcbase/sites/all/modules/custom/enable_ui_modules/.gitignore
+END
+enable_ui_modules.info
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/itc/!svn/ver/232/isuitcbase/sites/all/modules/custom/enable_ui_modules/enable_ui_modules.info
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/itc/!svn/ver/232/isuitcbase/sites/all/modules/custom/enable_ui_modules/README.md
+END
