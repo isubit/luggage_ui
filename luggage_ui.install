@@ -1,6 +1,6 @@
 <?php
 
-function enable_ui_modules_uninstall() {
+function luggage_ui_uninstall() {
   
   $module_list = array('dblog','field_ui','views_ui');
   
