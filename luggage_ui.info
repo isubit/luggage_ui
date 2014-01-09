@@ -7,6 +7,6 @@ project = luggage_ui
 github = https://raw.github.com/ISUITC/enable_ui_modules/master/enable_ui_modules.info
 dependencies[] = dblog
 dependencies[] = field_ui
-dependencies[] = global_otherenabled
+dependencies[] = luggage_contrib
 dependencies[] = views_ui
 features[features_api][] = api:2
