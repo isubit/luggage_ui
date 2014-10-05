@@ -1,8 +1,10 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the luggage_ui feature.
  */
+
+include_once 'luggage_ui.features.inc';
 
 /**
  * Implements hook_update_projects_alter().
