@@ -2,7 +2,7 @@
 
 function luggage_ui_uninstall() {
   
-  $module_list = array('dblog','field_ui','views_ui','ds_ui');
+  $module_list = array('dblog','field_ui','views_ui','ds_ui','rules_admin');
   
   module_disable($module_list, $disable_dependents = FALSE);
   drupal_uninstall_modules($module_list, $uninstall_dependents = FALSE);
