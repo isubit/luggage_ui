@@ -10,4 +10,5 @@ dependencies[] = field_ui
 dependencies[] = luggage_roles
 dependencies[] = views_ui
 dependencies[] = ds_ui
+dependencies[] = rules_admin
 features[features_api][] = api:2
